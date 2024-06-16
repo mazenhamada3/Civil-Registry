@@ -1,6 +1,6 @@
 ﻿namespace Civil_Registry_2
 {
-    partial class Form1
+    partial class signup
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,9 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             label1 = new Label();
             label2 = new Label();
-            txtUsername = new TextBox();
+            National_ID2 = new TextBox();
             txtPassword = new TextBox();
             label3 = new Label();
             txtComPassword = new TextBox();
@@ -40,6 +41,11 @@
             button1 = new Button();
             label5 = new Label();
             label6 = new Label();
+            button2 = new Button();
+            errorProvider2 = new ErrorProvider(components);
+            label7 = new Label();
+            comboBox1 = new ComboBox();
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -58,21 +64,22 @@
             label2.AutoSize = true;
             label2.Location = new Point(96, 169);
             label2.Name = "label2";
-            label2.Size = new Size(151, 37);
+            label2.Size = new Size(164, 37);
             label2.TabIndex = 1;
-            label2.Text = "UserName";
+            label2.Text = "National ID";
             // 
-            // txtUsername
+            // National_ID2
             // 
-            txtUsername.BackColor = Color.FromArgb(230, 231, 233);
-            txtUsername.BorderStyle = BorderStyle.None;
-            txtUsername.Font = new Font("MS Gothic", 16.125F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtUsername.Location = new Point(105, 223);
-            txtUsername.Multiline = true;
-            txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(408, 55);
-            txtUsername.TabIndex = 2;
-            txtUsername.TextChanged += txtUsername_TextChanged;
+            National_ID2.BackColor = Color.FromArgb(230, 231, 233);
+            National_ID2.BorderStyle = BorderStyle.None;
+            National_ID2.Font = new Font("MS Gothic", 16.125F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            National_ID2.Location = new Point(105, 223);
+            National_ID2.Multiline = true;
+            National_ID2.Name = "National_ID2";
+            National_ID2.Size = new Size(408, 55);
+            National_ID2.TabIndex = 2;
+            National_ID2.TextChanged += txtUsername_TextChanged;
+            National_ID2.KeyDown += National_ID2_KeyDown;
             // 
             // txtPassword
             // 
@@ -82,8 +89,11 @@
             txtPassword.Location = new Point(105, 340);
             txtPassword.Multiline = true;
             txtPassword.Name = "txtPassword";
+            txtPassword.PasswordChar = '*';
             txtPassword.Size = new Size(408, 49);
             txtPassword.TabIndex = 4;
+            txtPassword.TextChanged += txtPassword_TextChanged;
+            txtPassword.KeyDown += txtPassword_KeyDown;
             // 
             // label3
             // 
@@ -103,8 +113,10 @@
             txtComPassword.Location = new Point(105, 464);
             txtComPassword.Multiline = true;
             txtComPassword.Name = "txtComPassword";
+            txtComPassword.PasswordChar = '*';
             txtComPassword.Size = new Size(408, 48);
             txtComPassword.TabIndex = 6;
+            txtComPassword.TextChanged += txtComPassword_TextChanged;
             // 
             // label4
             // 
@@ -135,12 +147,13 @@
             REGISTER.FlatAppearance.BorderSize = 0;
             REGISTER.FlatStyle = FlatStyle.Flat;
             REGISTER.ForeColor = Color.White;
-            REGISTER.Location = new Point(96, 596);
+            REGISTER.Location = new Point(96, 667);
             REGISTER.Name = "REGISTER";
             REGISTER.Size = new Size(417, 64);
             REGISTER.TabIndex = 8;
             REGISTER.Text = "Register";
             REGISTER.UseVisualStyleBackColor = false;
+            REGISTER.Click += REGISTER_Click;
             // 
             // button1
             // 
@@ -148,17 +161,18 @@
             button1.Cursor = Cursors.Hand;
             button1.FlatStyle = FlatStyle.Flat;
             button1.ForeColor = Color.FromArgb(116, 86, 174);
-            button1.Location = new Point(96, 684);
+            button1.Location = new Point(96, 753);
             button1.Name = "button1";
             button1.Size = new Size(417, 71);
             button1.TabIndex = 9;
             button1.Text = "CLEAR";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(123, 786);
+            label5.Location = new Point(123, 836);
             label5.Name = "label5";
             label5.Size = new Size(355, 37);
             label5.TabIndex = 10;
@@ -169,18 +183,63 @@
             label6.AutoSize = true;
             label6.Cursor = Cursors.Hand;
             label6.ForeColor = Color.FromArgb(116, 86, 174);
-            label6.Location = new Point(192, 844);
+            label6.Location = new Point(192, 884);
             label6.Name = "label6";
             label6.Size = new Size(191, 37);
             label6.TabIndex = 11;
             label6.Text = "Back to Login";
+            label6.Click += label6_Click;
             // 
-            // Form1
+            // button2
+            // 
+            button2.BackColor = Color.White;
+            button2.Font = new Font("Britannic Bold", 13.875F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button2.ForeColor = Color.FromArgb(116, 86, 174);
+            button2.Location = new Point(589, 12);
+            button2.Name = "button2";
+            button2.Size = new Size(49, 46);
+            button2.TabIndex = 25;
+            button2.Text = "X";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
+            // errorProvider2
+            // 
+            errorProvider2.BlinkStyle = ErrorBlinkStyle.NeverBlink;
+            errorProvider2.ContainerControl = this;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(105, 603);
+            label7.Name = "label7";
+            label7.Size = new Size(110, 37);
+            label7.TabIndex = 26;
+            label7.Text = "Gender";
+            // 
+            // comboBox1
+            // 
+            comboBox1.BackColor = Color.FromArgb(230, 231, 233);
+            comboBox1.Font = new Font("Segoe UI", 9F);
+            comboBox1.FormattingEnabled = true;
+            comboBox1.ImeMode = ImeMode.Off;
+            comboBox1.Items.AddRange(new object[] { "Male", "Female" });
+            comboBox1.Location = new Point(252, 604);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(261, 40);
+            comboBox1.TabIndex = 53;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            comboBox1.KeyDown += comboBox1_KeyDown;
+            // 
+            // signup
             // 
             AutoScaleDimensions = new SizeF(16F, 37F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(650, 1000);
+            Controls.Add(comboBox1);
+            Controls.Add(label7);
+            Controls.Add(button2);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(button1);
@@ -190,16 +249,20 @@
             Controls.Add(label4);
             Controls.Add(txtPassword);
             Controls.Add(label3);
-            Controls.Add(txtUsername);
+            Controls.Add(National_ID2);
             Controls.Add(label2);
             Controls.Add(label1);
             Font = new Font("Nirmala UI", 10.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             ForeColor = Color.FromArgb(164, 165, 169);
             FormBorderStyle = FormBorderStyle.None;
             Margin = new Padding(4, 3, 4, 3);
-            Name = "Form1";
+            Name = "signup";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FormRegister";
+            Load += Form1_Load;
+            KeyDown += signup_KeyDown;
+            KeyPress += signup_KeyPress;
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -208,7 +271,7 @@
 
         private Label label1;
         private Label label2;
-        private TextBox txtUsername;
+        private TextBox National_ID2;
         private TextBox txtPassword;
         private Label label3;
         private TextBox txtComPassword;
@@ -218,5 +281,9 @@
         private Button button1;
         private Label label5;
         private Label label6;
+        private Button button2;
+        private ErrorProvider errorProvider2;
+        private Label label7;
+        private ComboBox comboBox1;
     }
 }
