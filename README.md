@@ -5,7 +5,7 @@ Civil Registry is a C# application with a Windows Forms graphical user interface
 
 ## Features
 - **User-Friendly GUI**: Intuitive and easy-to-navigate interface created with Windows Forms.
-- - **Database Integration**: Uses SQL to manage and store user data securely.
+- **Database Integration**: Uses SQL to manage and store user data securely.
 - **Role-Based Access Control**: Differentiates between admin, employee, and user roles, directing each to their respective forms.
 - **Admin Capabilities**: Add or delete members, and assign roles (admin, employee, or user) based on national ID.
 - **User Capabilities**: 
