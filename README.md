@@ -18,5 +18,5 @@ Civil Registry is a C# application with a Windows Forms graphical user interface
 ### Running the Application
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/civil-registry.git
+   git clone https://github.com/mazenhamada3/Civil-Registry.git
    cd civil-registry
