@@ -7,13 +7,16 @@ Civil Registry is a C# application with a Windows Forms graphical user interface
 - **User-Friendly GUI**: Intuitive and easy-to-navigate interface created with Windows Forms.
 - **Database Integration**: Uses SQL to manage and store user data securely.
 - **Role-Based Access Control**: Differentiates between admin, employee, and user roles, directing each to their respective forms.
-- **Admin Capabilities**: Add or delete members, and assign roles (admin, employee, or user) based on national ID.
-- **User Capabilities**: 
+- **Admin Capabilities**:
+  - **Add Member**: Add a new member with all mandatory data and assign roles (admin, employee, or user).
+  - **Delete User**: Remove a member by entering only their national ID.
+- **User Capabilities**:
   - **Update Data**: Request updates to personal data, pending employee approval.
-  - **Extract Data**: Obtain documents such as national ID, driver's license, or passport.
+  - **Note**: Some data can be changed only once, and to change them again, you must schedule an appointment.
+  - **Extract Data**: Obtain documents such as national ID, driver's license, or passport, provided all required member data for extraction is complete.
   - **Appointments**: Schedule appointments for various services.
-- **Employee Capabilities**: View and manage data change requests from users, with the ability to approve or decline changes.
-
+- **Employee Capabilities**:
+  - **Manage Requests**: View and manage data change requests from users, with the ability to approve or decline changes. Employees receive 8 requests at a time with a refresh button to load another set of 8 requests.
 
 ## How to Use
 ### Running the Application
