@@ -5,6 +5,7 @@ Civil Registry is a C# application with a Windows Forms graphical user interface
 
 ## Features
 - **User-Friendly GUI**: Intuitive and easy-to-navigate interface created with Windows Forms.
+- - **Database Integration**: Uses SQL to manage and store user data securely.
 - **Role-Based Access Control**: Differentiates between admin, employee, and user roles, directing each to their respective forms.
 - **Admin Capabilities**: Add or delete members, and assign roles (admin, employee, or user) based on national ID.
 - **User Capabilities**: 
@@ -12,11 +13,10 @@ Civil Registry is a C# application with a Windows Forms graphical user interface
   - **Extract Data**: Obtain documents such as national ID, driver's license, or passport.
   - **Appointments**: Schedule appointments for various services.
 - **Employee Capabilities**: View and manage data change requests from users, with the ability to approve or decline changes.
-- **Database Integration**: Uses SQL to manage and store user data securely.
+
 
 ## How to Use
 ### Running the Application
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mazenhamada3/Civil-Registry.git
-   cd civil-registry
