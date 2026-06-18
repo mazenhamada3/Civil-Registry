@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashoardUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="driverliscense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Emploee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExtractData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmIDcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Methods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="passport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

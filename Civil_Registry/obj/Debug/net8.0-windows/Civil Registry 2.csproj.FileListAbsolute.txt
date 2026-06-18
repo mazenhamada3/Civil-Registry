@@ -1,0 +1,94 @@
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\bin\Debug\net8.0-windows\Civil Registry 2.exe
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\bin\Debug\net8.0-windows\Civil Registry 2.deps.json
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\bin\Debug\net8.0-windows\Civil Registry 2.runtimeconfig.json
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\bin\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\bin\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil_Registry_2.Form1.resources
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil_Registry_2.frmLogin.resources
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.csproj.GenerateResource.cache
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfoInputs.cache
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfo.cs
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.csproj.CoreCompileInputs.cache
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.sourcelink.json
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\refint\Civil Registry 2.dll
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\Civil Registry 2.genruntimeconfig.cache
+C:\Users\mazen\source\repos\oopproject\Civil Registry 2\obj\Debug\net8.0-windows\ref\Civil Registry 2.dll
+C:\Users\mazen\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.exe
+C:\Users\mazen\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.deps.json
+C:\Users\mazen\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.runtimeconfig.json
+C:\Users\mazen\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\mazen\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.Form1.resources
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.frmLogin.resources
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.GenerateResource.cache
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfoInputs.cache
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfo.cs
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.CoreCompileInputs.cache
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.sourcelink.json
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\refint\Civil Registry 2.dll
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.genruntimeconfig.cache
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\ref\Civil Registry 2.dll
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.dashboarduser.resources
+C:\Users\mazen\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.admindashboard.resources
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.exe
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.deps.json
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.runtimeconfig.json
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.AssemblyReference.cache
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.admindashboard.resources
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.dashboarduser.resources
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.Form1.resources
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.frmLogin.resources
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.GenerateResource.cache
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfoInputs.cache
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfo.cs
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.CoreCompileInputs.cache
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.sourcelink.json
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Re.3982605C.Up2Date
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\refint\Civil Registry 2.dll
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.genruntimeconfig.cache
+C:\Users\Sigma\source\repos\Civil Registry 3\Civil Registry 3\obj\Debug\net8.0-windows\ref\Civil Registry 2.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.exe
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.deps.json
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.runtimeconfig.json
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.AssemblyReference.cache
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.admindashboard.resources
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.dashboarduser.resources
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.Form1.resources
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil_Registry_2.frmLogin.resources
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.GenerateResource.cache
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfoInputs.cache
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.AssemblyInfo.cs
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.sourcelink.json
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Re.3982605C.Up2Date
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\refint\Civil Registry 2.dll
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.pdb
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\Civil Registry 2.genruntimeconfig.cache
+C:\Users\Abdelrehirm\source\repos\Civil Registry 3\obj\Debug\net8.0-windows\ref\Civil Registry 2.dll

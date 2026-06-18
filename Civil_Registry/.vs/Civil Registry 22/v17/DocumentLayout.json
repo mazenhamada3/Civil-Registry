@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|c:\\users\\mazen\\source\\repos\\civil registry -data base3\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\driverliscense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:driverliscense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\dashoarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:dashoarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\frmidcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:frmidcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\extractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:extractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\admindelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:admindelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01AEA133-2FEB-4882-BB07-D0503C777EBB}|Civil Registry 22.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:22.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\signup.cs",
+              "RelativeDocumentMoniker": "signup.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\Civil Registry -data base3\\signup.cs [Design]",
+              "RelativeToolTip": "Civil Registry -data base3\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:26.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashoardUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\DashoardUser.cs",
+              "RelativeDocumentMoniker": "DashoardUser.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\DashoardUser.cs [Design]",
+              "RelativeToolTip": "DashoardUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:16.443Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExtractData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\ExtractData.cs",
+              "RelativeDocumentMoniker": "ExtractData.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\ExtractData.cs [Design]",
+              "RelativeToolTip": "ExtractData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:20.929Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\UpdateData.cs",
+              "RelativeDocumentMoniker": "UpdateData.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\UpdateData.cs [Design]",
+              "RelativeToolTip": "UpdateData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:27.787Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:14.786Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\AdminAdd.cs",
+              "RelativeDocumentMoniker": "AdminAdd.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\Civil Registry -data base3\\AdminAdd.cs [Design]",
+              "RelativeToolTip": "Civil Registry -data base3\\AdminAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:12.89Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDelete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\AdminDelete.cs",
+              "RelativeDocumentMoniker": "AdminDelete.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\Civil Registry -data base3\\AdminDelete.cs [Design]",
+              "RelativeToolTip": "Civil Registry -data base3\\AdminDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:15.696Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\EmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "EmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:19.939Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmIDcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\frmIDcs.cs",
+              "RelativeDocumentMoniker": "frmIDcs.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\frmIDcs.cs [Design]",
+              "RelativeToolTip": "frmIDcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:17:21.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "passport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\passport.cs",
+              "RelativeDocumentMoniker": "passport.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\passport.cs [Design]",
+              "RelativeToolTip": "passport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:21:37.293Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "driverliscense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\driverliscense.cs",
+              "RelativeDocumentMoniker": "driverliscense.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\driverliscense.cs [Design]",
+              "RelativeToolTip": "driverliscense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:22:08.28Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateData.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\UpdateData.cs",
+              "RelativeDocumentMoniker": "UpdateData.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\Civil Registry -data base3\\UpdateData.cs",
+              "RelativeToolTip": "UpdateData.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAkwLQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:04:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
